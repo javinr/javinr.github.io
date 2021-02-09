@@ -2,3 +2,8 @@ baseURL = "http://www.javinr.es/"
 languageCode = "es-ES"
 title = "Javier Nuño Rosal Site"
 theme = "ananke"
+
+[params]
+ twitter = "https://twitter.com/nosoynuno"
+ github = "https://github.com/javinr"
+ facebook = "https://facebook.com/javinr"
