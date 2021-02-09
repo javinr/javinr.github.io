@@ -1,4 +1,4 @@
-baseURL = "http://www.javinr.es/"
+baseURL = "https://www.javinr.es/"
 languageCode = "es-ES"
 title = "Javier Nuño Rosal Site"
 theme = "indigo"
