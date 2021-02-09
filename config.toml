@@ -1,9 +1,33 @@
 baseURL = "http://www.javinr.es/"
 languageCode = "es-ES"
 title = "Javier Nuño Rosal Site"
-theme = "ananke"
+theme = "indigo"
 
 [params]
- twitter = "https://twitter.com/nosoynuno"
- github = "https://github.com/javinr"
- facebook = "https://facebook.com/javinr"
+ Author = "Javier Nuño Rosal"
+ Biography = "Ingeniero Informático en Capgemini. Geek (nicnac según novia-ahora-esposa ;-)). Fan del balonmano. Muchas otras funciones... la mejor: papá"
+ Avatar = "images/GabinoFanhunter.svg"
+ ShowBio = true
+ PermalinkText = "🔗"
+ EmailAddress = "javinr@gmail.com"
+ FacebookUser = "javinr"
+ FlickrUser = "javinr"
+ GitHubUser = "javinr"
+ LinkedInUser = "javinr"
+ TwitterUser = "nosoynuno"
+ InstagramUser = "javinr"
+ # These are parameters used for indieweb identity. You should set these along
+ # with the above email/social network parameters.
+[params.indieWeb]
+ EmailAddress = "javinr@gmail.com"
+ FacebookUser = "javinr"
+ FlickrUser = "javinr"
+ GitHubUser = "javinr"
+ LinkedInUser = "javinr"
+ TwitterUser = "nosoynuno"
+ InstagramUser = "javinr"
+ Country = "España"
+ City = "Langreo"
+ [params.endpoints]
+   Auth = "https://indieauth.com/auth"
+   Token = "https://tokens.indieauth.com/token"
