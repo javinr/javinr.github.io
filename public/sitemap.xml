@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.javinr.es/</loc>
+    <lastmod>2021-02-10T15:53:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/post/my-first-microblog-post/</loc>
+    <lastmod>2021-02-10T15:53:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/post/</loc>
+    <lastmod>2021-02-10T15:53:51+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.javinr.es/categories/</loc>
     <lastmod>2021-02-10T09:50:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.javinr.es/</loc>
-    <lastmod>2021-02-10T09:50:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.javinr.es/post/my-first-post/</loc>
-    <lastmod>2021-02-10T09:50:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.javinr.es/post/</loc>
     <lastmod>2021-02-10T09:50:00+01:00</lastmod>
   </url>
   
