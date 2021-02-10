@@ -36,4 +36,4 @@ theme = "indigo"
    # To get micropub support, you'll need to install a Micropub endpoint at your site and put its link there.
    # To get an endpoint with Hugo support, use nanopub: https://github.com/dg01d/nanopub
    # It will probably require some PHP hackery though, as it's fairly basic.
-   Micropub = "https://www.javinr.es/nanopub/nanopub.php"
+   # Micropub = "https://www.javinr.es/nanopub/nanopub.php"
