@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Javier Nuño Rosal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 10 Feb 2021 09:50:00 +0100</lastBuildDate><atom:link href="https://www.javinr.es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 08:18:14 +0100</lastBuildDate><atom:link href="https://www.javinr.es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>humor</title>
+      <link>https://www.javinr.es/categories/humor/</link>
+      <pubDate>Sun, 14 Feb 2021 08:18:14 +0100</pubDate>
+      
+      <guid>https://www.javinr.es/categories/humor/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>test</title>
       <link>https://www.javinr.es/categories/test/</link>
