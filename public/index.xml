@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javier Nuño Rosal Site</title>
@@ -15,20 +16,13 @@
       <description>El nuevo mito de origen del nombre de Ariadna: &amp;ldquo;TEO y el minotauro&amp;rdquo;</description>
     </item>
     
-      <guid>https://www.javinr.es/post/2021/02/teo-y-el-minotauro/</guid>
-      <description>&lt;p&gt;El nuevo mito de origen del nombre de Ariadna: &amp;ldquo;TEO y el minotauro&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.javinr.es/images/2021/02/teo-y-el-minotauro.png&#34; alt=&#34;&amp;ldquo;Dibujo de Teo con un minotauro&amp;rdquo;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
     <item>
       <title>My First Microblog Post</title>
       <link>https://www.javinr.es/post/my-first-microblog-post/</link>
       <pubDate>Wed, 10 Feb 2021 15:53:51 +0100</pubDate>
       
       <guid>https://www.javinr.es/post/my-first-microblog-post/</guid>
-      <description>&lt;p&gt;Este es un post desde mi web personal que debería sindicarse en &lt;a href=&#34;https://javinr.micro.blog&#34;&gt;Micro.blog&lt;/a&gt; y en &lt;a href=&#34;https://twitter.com/nosoynuno&#34;&gt;mi Twitter&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Este es un post desde mi web personal que debería sindicarse en Micro.blog y en mi Twitter</description>
     </item>
     
     <item>
@@ -37,8 +31,7 @@
       <pubDate>Wed, 10 Feb 2021 09:50:00 +0100</pubDate>
       
       <guid>https://www.javinr.es/post/my-first-post/</guid>
-      <description>&lt;p&gt;Esto es un post de prueba, enlazando &lt;a href=&#34;https://angelostavrow.com/&#34;&gt;al creador de Indigo&lt;/a&gt;, el tema que he usado con &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; para crear esta web&lt;/p&gt;
-</description>
+      <description>Esto es un post de prueba, enlazando al creador de Indigo, el tema que he usado con Hugo para crear esta web</description>
     </item>
     
   </channel>
