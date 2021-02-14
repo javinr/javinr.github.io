@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>humor on Javier Nuño Rosal Site</title>
+    <link>https://www.javinr.es/tags/humor/</link>
+    <description>Recent content in humor on Javier Nuño Rosal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sun, 14 Feb 2021 08:18:14 +0100</lastBuildDate><atom:link href="https://www.javinr.es/tags/humor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teo Y El Minotauro</title>
+      <link>https://www.javinr.es/post/2021/02/teo-y-el-minotauro/</link>
+      <pubDate>Sun, 14 Feb 2021 08:18:14 +0100</pubDate>
+      
+      <guid>https://www.javinr.es/post/2021/02/teo-y-el-minotauro/</guid>
+      <description>El nuevo mito de origen del nombre de Ariadna: &amp;ldquo;TEO y el minotauro&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
