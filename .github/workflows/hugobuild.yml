@@ -41,7 +41,7 @@ jobs:
           # Commit options (eg. --no-verify)
           # commit_options: # optional, default is 
           # File pattern used for `git add`. For example `src/\*.js`
-          # file_pattern: # optional, default is .
+          # file_pattern: public/**/* # optional, default is .
           # Local file path to the git repository. Defaults to the current directory (`.`)
           # repository: # optional, default is .
           # Name used for the commit user
