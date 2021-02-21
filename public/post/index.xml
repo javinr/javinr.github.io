@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Javier Nuño Rosal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sun, 14 Feb 2021 08:18:14 +0100</lastBuildDate><atom:link href="https://www.javinr.es/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Feb 2021 21:55:00 +0100</lastBuildDate><atom:link href="https://www.javinr.es/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posting from iphone</title>
+      <link>https://www.javinr.es/post/2021/02/post-from-iphone/</link>
+      <pubDate>Sat, 20 Feb 2021 21:55:00 +0100</pubDate>
+      
+      <guid>https://www.javinr.es/post/2021/02/post-from-iphone/</guid>
+      <description>Manually posting from iPhone, commtting on GitHub, automatically building with Hugo an publishing on Netlify&amp;hellip; TADAA!!</description>
+    </item>
+    
     <item>
       <title>Teo Y El Minotauro</title>
       <link>https://www.javinr.es/post/2021/02/teo-y-el-minotauro/</link>
