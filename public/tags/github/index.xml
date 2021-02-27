@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on Javier Nuño Rosal Site</title>
+    <link>https://www.javinr.es/tags/github/</link>
+    <description>Recent content in github on Javier Nuño Rosal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 20 Feb 2021 21:55:00 +0100</lastBuildDate><atom:link href="https://www.javinr.es/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posting from iphone</title>
+      <link>https://www.javinr.es/post/2021/02/post-from-iphone/</link>
+      <pubDate>Sat, 20 Feb 2021 21:55:00 +0100</pubDate>
+      
+      <guid>https://www.javinr.es/post/2021/02/post-from-iphone/</guid>
+      <description>Manually posting from iPhone, commtting on GitHub, automatically building with Hugo an publishing on Netlify&amp;hellip; TADAA!!</description>
+    </item>
+    
+  </channel>
+</rss>
