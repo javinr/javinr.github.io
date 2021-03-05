@@ -3,12 +3,16 @@ languageCode = "es-ES"
 title = "Javier Nuño Rosal Site"
 theme = "indigo"
 
+[markup.goldmark.renderer]
+ unsafe = true
+
 [params]
  Author = "Javier Nuño Rosal"
  Biography = "Ingeniero Informático en Capgemini. Geek (nicnac según novia-ahora-esposa ;-)). Fan del balonmano. Muchas otras funciones... la mejor: papá"
  Avatar = "images/GabinoFanhunter.svg"
  ShowBio = true
  PermalinkText = "🔗"
+ mainSections = ["post", "update"]
  EmailAddress = "javinr@gmail.com"
  FacebookUser = "javinr"
  FlickrUser = "javinr"
