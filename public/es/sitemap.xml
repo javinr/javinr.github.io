@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.javinr.es/categories/</loc>
+    <lastmod>2021-02-20T21:55:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.javinr.es/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.javinr.es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/tags/geek/</loc>
+    <lastmod>2021-02-20T21:55:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/categories/geek/</loc>
+    <lastmod>2021-02-20T21:55:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/tags/github/</loc>
+    <lastmod>2021-02-20T21:55:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/tags/hugo/</loc>
+    <lastmod>2021-02-20T21:55:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/</loc>
+    <lastmod>2021-02-20T21:55:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.javinr.es/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.javinr.es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/post/2021/02/post-from-iphone/</loc>
+    <lastmod>2021-02-20T21:55:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/post/</loc>
+    <lastmod>2021-02-20T21:55:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/tags/</loc>
+    <lastmod>2021-02-20T21:55:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.javinr.es/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.javinr.es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/tags/humor/</loc>
+    <lastmod>2021-02-14T08:18:14+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/categories/humor/</loc>
+    <lastmod>2021-02-14T08:18:14+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/tags/minotauro/</loc>
+    <lastmod>2021-02-14T08:18:14+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/tags/mitologia/</loc>
+    <lastmod>2021-02-14T08:18:14+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/tags/teo/</loc>
+    <lastmod>2021-02-14T08:18:14+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/post/2021/02/teo-y-el-minotauro/</loc>
+    <lastmod>2021-02-14T08:18:14+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/post/my-first-microblog-post/</loc>
+    <lastmod>2021-02-10T15:53:51+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/post/my-first-post/</loc>
+    <lastmod>2021-02-10T09:50:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.javinr.es/categories/test/</loc>
+    <lastmod>2021-02-10T09:50:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
