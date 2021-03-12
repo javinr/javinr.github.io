@@ -45,6 +45,14 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+  ShowBio = true
+  Avatar = "images/GabinoFanhunter.svg"
+  Author = "Javier Nuño Rosal"
+  Biography = "Ingeniero Informático en Capgemini. Geek (nicnac según novia-ahora-esposa ;-)). Fan del balonmano. Muchas otras funciones... la mejor: papá"
+  [params.IndieWeb]
+    City = "Langreo"
+    Country = "España"
+    EmailAddress = "javinr@gmail.com"
 
 #[markup.goldmark.renderer]
 # unsafe = true

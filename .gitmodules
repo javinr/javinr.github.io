@@ -4,3 +4,7 @@
 [submodule "themes/indigo"]
 	path = themes/indigo
 	url = https://github.com/AngeloStavrow/indigo.git
+[submodule "themes/ananke-indie"]
+	path = themes/ananke-indie
+	url = https://github.com/javinr/gohugo-theme-ananke-indie
+	branch = master
