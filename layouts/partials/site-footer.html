@@ -1,18 +1,16 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   {{ if .Site.Params.ShowBio }}
-  <div class="center">
-    <div class="h-card">
-      <img class="u-photo" src="{{ .Site.Params.Avatar | absURL }}" />
-      <div class="card-content">
-        <h2 class="card-name"><a class="p-name u-url" href="{{ .Site.BaseURL }}" rel="me">{{ .Site.Params.Author }}</a></h2>
-        <p class="card-subhead white-70">
-          <span class="p-locality">{{ .Site.Params.IndieWeb.City }}</span>,
-          <span class="p-country-name">{{ .Site.Params.IndieWeb.Country }}</span><br />
-          <a class="u-email" href="mailto:{{ .Site.Params.IndieWeb.EmailAddress }}">Email me</a>
-        </p>
-      </div>
-      <p class="p-note  white-70">{{ .Site.Params.Biography }}</p>
+  <div class="h-card">
+    <img class="u-photo" src="{{ .Site.Params.Avatar | absURL }}" />
+    <div class="card-content">
+      <h2 class="card-name"><a class="p-name u-url white-70" href="{{ .Site.BaseURL }}" rel="me">{{ .Site.Params.Author }}</a></h2>
+      <p class="card-subhead white-70">
+        <span class="p-locality">{{ .Site.Params.IndieWeb.City }}</span>,
+        <span class="p-country-name">{{ .Site.Params.IndieWeb.Country }}</span><br />
+        <a class="u-email" href="mailto:{{ .Site.Params.IndieWeb.EmailAddress }}">Email me</a>
+      </p>
     </div>
+    <p class="p-note  white-70">{{ .Site.Params.Biography }}</p>
   </div>
   {{ end }}
   <div class="flex justify-between">
