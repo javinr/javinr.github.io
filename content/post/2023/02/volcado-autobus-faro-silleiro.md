@@ -1,5 +1,5 @@
 ——-
-title: “Volcado autobús cerca del faro Silleiro”
+title: Volcado autobús cerca del faro Silleiro
 date: 2023-02-03T21:49:00+01:00
 draft: false
 category: news
